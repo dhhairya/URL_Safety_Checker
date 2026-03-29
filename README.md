@@ -173,5 +173,3 @@ certifi
 - Historical scan database
 
 ----------------------------------------------------------------------------------------
-
-This project was built for a hackathon. Feel free to use, modify, and build on it
